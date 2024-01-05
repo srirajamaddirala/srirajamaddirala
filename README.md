@@ -1,4 +1,4 @@
-
+![logo](https://github.com/srirajamaddirala/srirajamaddirala/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm siri(she/her)</h1>
 <h3 align="center">"Tech enthusiast"software and frontend developer from India</h3>
 
