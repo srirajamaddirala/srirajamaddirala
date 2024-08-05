@@ -1,20 +1,20 @@
 ![logo](https://github.com/srirajamaddirala/srirajamaddirala/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm siri(she/her) </h1>
-<h3 align="center">" Tech enthusiast " software & frontend developer from India </h3>
+<h3 align="center">" Tech enthusiast " uiux designer from India </h3>
 
 <image align="right"   width = "400" src = " https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif " >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srirajamaddirala&label=Profile%20views&color=0e75b6&style=flat" alt="srirajamaddirala" /> </p>
 
-- 🔭 I’m currently working on **c++,html,css,js ,bootstrap**
+- 🔭 I’m currently working on **c/c++,html, uiux designs**
 
 - 🌱 I’m currently learning **Angular,DSA in c++**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **uiux design projects**
 
 - 📫 How to reach me **maddiralasriraja59@gmail.com**
 
-- ⚡ Fun fact **I love game development and UI designing**
+- ⚡ Fun fact **I love to make innovative ideas into creative UI designs**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
