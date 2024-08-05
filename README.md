@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **c/c++,html, uiux designs**
 
-- 🌱 I’m currently learning **Angular,DSA in c++**
+- 🌱 I’m currently learning **uiux designing and DSA in c++**
 
 - 👯 I’m looking to collaborate on **uiux design projects**
 
