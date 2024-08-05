@@ -1,4 +1,7 @@
-![logo](https://github.com/srirajamaddirala/srirajamaddirala/blob/main/banner.png)
+<div align="center">
+        <img width="1000px" src="https://github.com/user-attachments/assets/c23d35cf-52c3-427b-941a-0e0b7be023ed" alt="jc logo"  />
+    </div>
+    
 <h1 align="center">Hi 👋, I'm siri(she/her) </h1>
 <h3 align="center">" Tech enthusiast " uiux designer from India </h3>
 
